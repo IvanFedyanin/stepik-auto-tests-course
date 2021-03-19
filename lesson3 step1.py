@@ -1,0 +1,1 @@
+assert abs(-42) == -42, "Should be absolute value of a number" #через запятую выводится сообщение об ошибке
