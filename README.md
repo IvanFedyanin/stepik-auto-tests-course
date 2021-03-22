@@ -1,1 +1,2 @@
-# stepik-auto-tests-course
+#  Иван Федянин 
+ manual QA in wowworks.ru
